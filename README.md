@@ -58,7 +58,7 @@ research-methodologist/
 
 Skills in Claude.ai are installed as a ZIP file via **Customize → Skills**. 
 
-**Step 1: Download the ZIP**
+**Step 1: Download the ZIP and take out README.md and LICENSE.md**
 
 **Step 2: Install in Claude.ai**
 
