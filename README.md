@@ -56,26 +56,9 @@ research-methodologist/
 
 ### Option 1: Claude.ai (web and desktop app)
 
-Skills in Claude.ai are installed as a ZIP file via **Customize → Skills**. The ZIP must contain the skill folder with `SKILL.md` and all supporting files inside it.
+Skills in Claude.ai are installed as a ZIP file via **Customize → Skills**. 
 
-**Step 1: Build the ZIP**
-
-```bash
-git clone https://github.com/YOUR_USERNAME/research-methodologist.git
-
-# Create a ZIP with the correct internal structure:
-# research-methodologist/
-# ├── SKILL.md
-# └── references/
-#     ├── formulations-guide.md
-#     ├── formulations-commentary.md
-#     └── methods-guide.md
-
-cd research-methodologist
-zip -r ../research-methodologist.zip .
-```
-
-Or on Windows: right-click the `research-methodologist` folder → Send to → Compressed (zipped) folder.
+**Step 1: Download the ZIP**
 
 **Step 2: Install in Claude.ai**
 
